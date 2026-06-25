@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application that predicts diabetes risk using patient diagnostic data.
 
-### **🚀 Live Demo:** [Will be live on Streamlit Cloud soon]
+### **🚀 Live Demo:** [https://ml-diabetes-project-p3crrurkg5bvbxea3f7tur.streamlit.app/
 
 ### **✨ Key Features**
 - Real-time diabetes risk prediction using 8 medical parameters
